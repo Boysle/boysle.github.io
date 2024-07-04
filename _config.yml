@@ -22,13 +22,13 @@ repository               : "Boysle/boysle.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Oğuz Arslan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "MS Computer Engineering Student"
+  location         : "Istanbul, Turkey"
+  employer         : "Bogazici University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "99.oguz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
