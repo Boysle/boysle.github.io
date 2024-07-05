@@ -14,7 +14,7 @@ My research interests include graph neural networks, sports analytics, ontologie
 I received my BS degree from [Mechanical Engineering Deptartment](http://www.me.boun.edu.tr/) at [Bogazici University](https://bogazici.edu.tr/en_US). My graduation project was completed under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=users/hasan-bedir).
 
 Featured Projects
------
+=====
 
 {% include base_path %}
 
