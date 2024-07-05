@@ -41,4 +41,4 @@ Skills
 * **Courses**
   * Machine Learning, Deep Learning, Data Structures & Algorithms, Operating Systems, NLP, Semantic Web, Human-Computer Interaction, Smart Environments, Wearable Computing
 * **Softwares**
-  * Android Studio, MATLAB, Jupyter Notebook, Unity, Arduino, Prot ́eg ́e, VR Tools
+  * Android Studio, MATLAB, Jupyter Notebook, Unity, Arduino, Protege, VR Tools
