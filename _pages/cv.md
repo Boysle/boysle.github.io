@@ -36,9 +36,9 @@ produced materials are distributed to organizations such as NASA and Airbus.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python, C, C++, C#, Java, SPARQL
+* **Courses**
+  * Machine Learning, Deep Learning, Data Structures & Algorithms, Operating Systems, NLP, Semantic Web, Human-Computer Interaction, Smart Environments, Wearable Computing
+* **Softwares**
+  * Android Studio, MATLAB, Jupyter Notebook, Unity, Arduino, Prot ́eg ́e, VR Tools
