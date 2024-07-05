@@ -16,3 +16,9 @@ I received my BS degree from [Mechanical Engineering Deptartment](http://www.me.
 Featured Projects
 -----
 
+{% include base_path %}
+
+{% assign posts = site.portfolio | slice: 0, 2 %}
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
