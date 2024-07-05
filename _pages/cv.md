@@ -14,7 +14,7 @@ Education
 * MS in Computer Engineering, Bogazici University, September 2022 - February 2025
 * BS in Mechanical Engineering, Bogazici University, September 2017 - June 2022
 
-Work experience
+Work Experience
 ======
 * **Kordsa**, **Software Engineer**, March 2022 - October 2022
 
