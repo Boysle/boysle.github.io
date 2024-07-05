@@ -1,6 +1,6 @@
 ---
 title: "RealityCraft"
-excerpt: "An In-Situ CAD+CAM Interface for Novices via Scene-Aware Augmented Reality<br/><img src='/images/500x300.png'>"
+excerpt: "An In-Situ CAD+CAM Interface for Novices via Scene-Aware Augmented Reality<br/><img src='/images/Rotoscoping.png'>"
 collection: projects
 ---
 
