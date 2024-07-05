@@ -22,3 +22,5 @@ Featured Projects
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
+
+This section is currently under development.
