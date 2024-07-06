@@ -4,7 +4,7 @@ excerpt: "A Fully Automated Indoor No-Soil Vertical Farming Setup<br/><img src='
 author_profile: false
 collection: projects
 ---
-This project was conducted under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=users/hasan-bedir) and in collaboration with [Kutay Yavuzkol](https://www.linkedin.com/in/kutay-yavuzkol-415020150/) and [Alp Uysal](https://www.linkedin.com/in/alpuysaal/).
+Conducted under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=users/hasan-bedir) and in collaboration with [Kutay Yavuzkol](https://www.linkedin.com/in/kutay-yavuzkol-415020150/) and [Alp Uysal](https://www.linkedin.com/in/alpuysaal/).
 
 This is a smart and semi-automated vertical farming system, adaptable to various plant types for household users, addressing the challenges urban residents face in growing their own agricultural products. The crops are cultivated in layers to optimize space, with nutrient-enriched water used to nourish the growing plants.
 
