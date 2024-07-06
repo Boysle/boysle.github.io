@@ -4,7 +4,7 @@ excerpt: "An In-Situ CAD+CAM Interface for Novices via Scene-Aware Augmented Rea
 author_profile: false
 collection: projects
 ---
-This project was conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/) and in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/).
+Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/) and in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/).
 
 We present RealityCraft, an AR interface that enables in-situ computer-aided design and manufacturing (CAD+CAM) for novices. 
 
