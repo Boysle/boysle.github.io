@@ -4,7 +4,7 @@ excerpt: "A System for Pet Bird Owners to Track Their Bird's Eating Habits<br/><
 author_profile: false
 collection: projects
 ---
-This project was conducted under the supervision of [Assoc. Prof. Özlem Durmaz İncel](https://www.cmpe.boun.edu.tr/people/ozlem.durmaz).
+Conducted under the supervision of [Assoc. Prof. Özlem Durmaz İncel](https://www.cmpe.boun.edu.tr/people/ozlem.durmaz).
 
 The mechanism includes a sensitive weight sensor to track whenever the bird lands on the feeder.
 
