@@ -6,7 +6,7 @@ collection: projects
 ---
 Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/) and in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=h-dr5sL2JEs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h-dr5sL2JEs" frameborder="0" allowfullscreen></iframe>
 
 We present RealityCraft, an AR interface that enables in-situ computer-aided design and manufacturing (CAD+CAM) for novices. 
 
