@@ -1,6 +1,6 @@
 ---
 title: "Budgie Feeder Tracker"
-excerpt: "A System for Pet Bird Owners to Track Their Bird's Eating Habits<br/><img src='/images/BudgieFeeder.png'>"
+excerpt: "A System for Pet Bird Owners to Track Their Bird's Eating Habits<br/><img src='/images/BudgieFeeder.png' style='width:500px;'>"
 author_profile: false
 collection: projects
 ---
