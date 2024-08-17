@@ -1,6 +1,6 @@
 ---
 title: "Rotary Parking System"
-excerpt: "A functional 1:40 scale rotary parking system that works with model cars.<br/><img src='/images/Vertical.png'>"
+excerpt: "A functional 1:40 scale rotary parking system that works with model cars.<br/><img src='/images/VerticalRotary.png'>"
 author_profile: false
 collection: projects
 ---
