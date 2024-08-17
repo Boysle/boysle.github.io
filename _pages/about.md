@@ -23,4 +23,4 @@ Featured Projects
   {% include archive-single.html %}
 {% endfor %}
 
-This section is currently under development.
+This section is currently under development...
