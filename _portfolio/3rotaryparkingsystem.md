@@ -6,7 +6,7 @@ collection: projects
 ---
 Conducted under the supervision of [Asst. Prof. Sinan Öncü](https://www.linkedin.com/in/sinanoncu) and in collaboration with [Mehmet Kutay Yavuzkol](https://www.linkedin.com/in/kutay-yavuzkol-415020150/), [Ayberk Ergül](https://www.linkedin.com/in/ayberk-erg%C3%BCl-3b41ba177/), and [Abdullah Duman](https://www.linkedin.com/in/abdullah-duman/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=7DwNvurh-tA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7DwNvurh-tA" frameborder="0" allowfullscreen></iframe>
 
 A functional small-scale rotary parking system that works with model cars.
 
