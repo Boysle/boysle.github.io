@@ -12,5 +12,6 @@ An Arduino UNO equipped with a serial Wi-Fi module is used to collect and transm
 
 Users can track their bird's weight and eating hours, providing an understanding of their overall health and habits.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YqFSegBtzXo" frameborder="0" allowfullscreen></iframe>
 
 
