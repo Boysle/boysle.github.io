@@ -21,7 +21,7 @@ repository               : "Boysle/boysle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Oguz Vesikalik.jpg"
+  avatar           : "Oguz Vesikalik.jpeg"
   name             : "Oğuz Arslan"
   pronouns         : # example: "she/her"  
   bio              : "MS Computer Engineering Student"
