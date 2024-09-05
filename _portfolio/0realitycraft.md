@@ -13,3 +13,5 @@ We present RealityCraft, an AR interface that enables in-situ computer-aided des
 Unlike existing CAD systems that are limited to traditional screens, RealityCraft allows users to design directly within their physical environments. 
 
 It introduces easy-to-use, non-parametric primitives for spatial and improvisational design tasks, integrating seamlessly with the real world.
+
+It lets users fabricate their designs with 3D printers with the push of a button.
