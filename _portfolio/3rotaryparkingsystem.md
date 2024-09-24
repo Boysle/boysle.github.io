@@ -8,8 +8,9 @@ Conducted under the supervision of [Asst. Prof. Sinan Öncü](https://www.linked
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7DwNvurh-tA" frameborder="0" allowfullscreen></iframe>
 
-<br><br>
-A functional small-scale rotary parking system that works with model cars to save space by going vertically in open parking lots.
+<div style="margin-top: 10px;">
+  A functional small-scale rotary parking system that works with model cars to save space by going vertically in open parking lots.
+</div>
 
 Arduino UNO and other electronic components are used for the control mechanism. The structure is built with interlinkable beams, pins, and gears. 
 
