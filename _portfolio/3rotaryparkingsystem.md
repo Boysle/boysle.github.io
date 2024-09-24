@@ -15,8 +15,8 @@ Arduino UNO and other electronic components are used for the control mechanism. 
 The code is written in C++ to create ”the most efficient path” algorithm that switches parking spots to save energy up to 20% and reduce waiting times for customers.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/images/Rotary Parking Front.jpg" alt="Front view of the system" style="width:350px;">
-  <img src="/images/Rotary Parking Components.jpg" alt="Electronic components of the system" style="width:347px;">
+  <img src="/images/Rotary Parking Front.jpg" alt="Front view of the system" style="width:380px;">
+  <img src="/images/Rotary Parking Components.jpg" alt="Electronic components of the system" style="width:377px;">
 </div>
 
 
