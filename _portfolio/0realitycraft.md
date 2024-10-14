@@ -8,7 +8,7 @@ Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpf_s0ysZzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none;">📄Paper</a>
+### <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold; display: inline-block;">📄 Paper</a>
 
 ### Abstract
 
