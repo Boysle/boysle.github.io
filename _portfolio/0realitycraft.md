@@ -6,7 +6,7 @@ collection: projects
 ---
 Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/) and in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/).
 
-<iframe width="560" height="315" src="https://youtu.be/tpf_s0ysZzo?si=5dR1SqFdUFeb1c2G" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/tpf_s0ysZzo/0.jpg)](https://youtu.be/tpf_s0ysZzo)
 
 ### <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none;">📄Paper</a>
 
