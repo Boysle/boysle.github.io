@@ -10,7 +10,7 @@ Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogad
 
 
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
-  <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 5px 15px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999'; font-size: 14px;">📄paper</a>
+  <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 5px 15px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999'; font-size: 10px;">📄paper</a>
 </div>
 
 
