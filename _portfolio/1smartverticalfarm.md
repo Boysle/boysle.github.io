@@ -19,7 +19,7 @@ Conducted under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=
 This is a smart and semi-automated vertical farming system, adaptable to various plant types for household users, addressing the challenges urban residents face in growing their own agricultural products. The crops are cultivated in layers to optimize space, with nutrient-enriched water used to nourish the growing plants.
 
 <!-- COMPLEMENTARY IMAGE #1 -->
-<img src="/images/Vertical Farming CAD Model.png" alt="Vertical Farming CAD Model" style="border-radius: 20px; width: 760px;">
+<img src="/images/Vertical Farming Solidworks.png" alt="Vertical Farming CAD Model" style="border-radius: 20px; width: 760px;">
 
 There are multiple control mechanisms integrated into a compact vertical system, with necessary components selected based on thorough technical analysis and design constraints. The system automatically monitors and adjusts the pH levels and nutrient concentration in the water, while tracking temperature and moisture to maintain optimal growing conditions for the plants. A smartphone alert system notifies users if any undesired conditions arise.
 
