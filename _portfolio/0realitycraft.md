@@ -8,12 +8,9 @@ Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpf_s0ysZzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
-  <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 2px 10px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s; font-size: 14px;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📄paper</a>
+  <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 2px 10px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s; font-size: 14px; font-weight: bold;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📄paper</a>
 </div>
-
-
 
 ### Abstract
 
