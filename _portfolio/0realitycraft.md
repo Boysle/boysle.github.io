@@ -8,8 +8,9 @@ Conducted under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpf_s0ysZzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="text-align: center;">
-  <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #888888; padding: 5px 12px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #888888; transition: 0.3s;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📄paper</a>
+
+<div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
+  <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 5px 12px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📄paper</a>
 </div>
 
 
