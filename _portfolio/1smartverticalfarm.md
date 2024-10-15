@@ -8,7 +8,7 @@ Conducted under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=
 
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://www.dropbox.com/scl/fi/9djy65rxhqygvtyophsh0/ME429_Final_Report_Group17.docx.pdf?rlkey=onxngl7a7myp4b5btxunpk0fg&st=yuxbcaz6&dl=0" style="text-decoration: none; background-color: transparent; color: #999999; padding: 5px 12px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📄paper</a>
+    <a href="https://www.dropbox.com/scl/fi/9djy65rxhqygvtyophsh0/ME429_Final_Report_Group17.docx.pdf?rlkey=onxngl7a7myp4b5btxunpk0fg&st=yuxbcaz6&dl=0" style="text-decoration: none; background-color: transparent; color: #999999; padding: 5px 12px; border-radius: 25px; text-align: center; display: inline-block; border: 2px solid #999999; transition: 0.3s;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999'; font-size: 14px;">📄paper</a>
 </div>
 
 
