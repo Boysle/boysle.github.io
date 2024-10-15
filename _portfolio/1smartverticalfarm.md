@@ -7,6 +7,7 @@ collection: projects
 Conducted under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=users/hasan-bedir) and in collaboration with [Kutay Yavuzkol](https://www.linkedin.com/in/kutay-yavuzkol-415020150/) and [Alp Uysal](https://www.linkedin.com/in/alpuysaal/).
 
 <!-- MAIN IMAGE -->
+<img src="/images/Vertical Farming Teaser.png" alt="Vertical Farming CAD Model" style="border-radius: 20px; width: 760px;">
 
 <!-- BUTTONS -->
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
