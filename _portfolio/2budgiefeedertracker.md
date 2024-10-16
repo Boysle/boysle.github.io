@@ -11,8 +11,6 @@ Conducted under the supervision of [Assoc. Prof. Özlem Durmaz İncel](https://w
   <a href="https://www.dropbox.com/scl/fi/i0u9iksveo8q4swbrdk9w/Budgie-Feeder-Tracker-Slides.pptx?rlkey=19psfptj6hk9bp01097sh7dv0&st=kv287fl5&dl=0" style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📰slides</a>
 </div>
 
-The presentation slides can be found [here](https://docs.google.com/presentation/d/15Bxk8GrdjDKizWz2PBFqSlwiGzrAQ46e/edit?usp=sharing&ouid=100064784888986903711&rtpof=true&sd=true).
-
 The mechanism includes a sensitive weight sensor to track whenever the bird lands on the feeder.
 
 An Arduino UNO equipped with a serial Wi-Fi module is used to collect and transmit weight data to an IoT analytics framework.
