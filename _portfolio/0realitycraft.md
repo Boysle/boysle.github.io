@@ -1,5 +1,5 @@
 ---
-title: "RealityCraft (CHI '25 Submission)"
+title: <h2 style="margin-bottom: 10px;">RealityCraft (CHI '25 Submission)</h2>
 excerpt: "An In-Situ CAD+CAM Interface for Novices via Scene-Aware Augmented Reality<br/><img src='/images/RealityCraft Teaser Figure.png' style='width:740px; border-radius: 20px; margin-bottom: 24px;'>"
 author_profile: false
 collection: projects
