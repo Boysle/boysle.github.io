@@ -1,6 +1,6 @@
 ---
 title: "Smart Vertical Farm"
-excerpt: "A Fully Automated Indoor No-Soil Vertical Farming Setup<br/><img src='/images/VerticalFarm.png' style='width:740px; border-radius: 20px;'>"
+excerpt: "A Fully Automated Indoor No-Soil Vertical Farming Setup<br/><img src='/images/VerticalFarm.png' style='width:740px; border-radius: 20px;  margin-bottom: 24px;'>"
 author_profile: false
 collection: projects
 ---
