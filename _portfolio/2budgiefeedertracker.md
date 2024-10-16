@@ -24,7 +24,7 @@ This is a system for pet bird owners to track their bird's eating habits. The me
 An Arduino UNO equipped with a serial Wi-Fi module is used to collect and transmit weight data to an IoT analytics framework.
 
 <!-- COMPLEMENTARY IMAGE #1 -->
-<img src="/images/Budgie Feeder Circuit Design.png" alt="Budgie Feeder System" style="border-radius: 20px; width: 760px;">
+<!--img src="/images/Budgie Feeder Circuit Design.png" alt="Budgie Feeder System" style="border-radius: 20px; width: 760px;"-->
 
 Users can track their bird's weight and eating hours, providing an understanding of their overall health and habits. The system also notifies the users when the feeder runs low on seeds.
 
