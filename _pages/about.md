@@ -23,4 +23,4 @@ Featured Projects
   {% include archive-single.html %}
 {% endfor %}
 
-<p style="font-size: 10px;">I am working on updating my website!</p>
+<p style="font-size: 14px;">I am working on updating my website!</p>
