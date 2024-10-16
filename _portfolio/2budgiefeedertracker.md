@@ -6,8 +6,8 @@ collection: projects
 ---
 Conducted under the supervision of [Assoc. Prof. Özlem Durmaz İncel](https://www.cmpe.boun.edu.tr/people/ozlem.durmaz).
 
-<!-- MAIN IMAGE -->
-<img src="/images/Vertical Farming Teaser.png" alt="Vertical Farming Teaser" style="border-radius: 20px; width: 760px;">
+<!-- MAIN SVG -->
+<img src="/images/Bird Eating SVG.svg" alt="Bird Eating Teaser" style="border-radius: 20px; width: 760px;">
 
 <!-- BUTTONS -->
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
