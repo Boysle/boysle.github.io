@@ -23,4 +23,4 @@ Featured Projects
   {% include archive-single.html %}
 {% endfor %}
 
-This section is currently under development...
+<p style="font-size: 10px;">I'm working on updating my website!</p>
