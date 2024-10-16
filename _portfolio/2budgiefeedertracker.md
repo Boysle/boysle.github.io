@@ -16,13 +16,13 @@ Conducted under the supervision of [Assoc. Prof. Özlem Durmaz İncel](https://w
 
 ### Overview
 
-The mechanism includes a sensitive weight sensor to track whenever the bird lands on the feeder.
+This is a system for pet bird owners to track their bird's eating habits. The mechanism includes a sensitive weight sensor to track whenever the bird lands on the feeder.
 
 <!-- COMPLEMENTARY IMAGE #1 -->
 <img src="/images/Vertical Farming Teaser.png" alt="Vertical Farming Teaser" style="border-radius: 20px; width: 760px;">
 
 An Arduino UNO equipped with a serial Wi-Fi module is used to collect and transmit weight data to an IoT analytics framework.
 
-Users can track their bird's weight and eating hours, providing an understanding of their overall health and habits.
+Users can track their bird's weight and eating hours, providing an understanding of their overall health and habits. The system also notifies the users when the feeder runs low on seeds.
 
 
