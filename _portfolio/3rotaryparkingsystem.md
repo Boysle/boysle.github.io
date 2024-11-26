@@ -19,6 +19,8 @@ A functional small-scale rotary parking system prototype that works with model c
 <!-- COMPLEMENTARY IMAGE #1 -->
 <img src="/images/Rotary Parking Mechanism.png" alt="Rotary Parking Mechanism" style="border-radius: 20px; width: 760px;">
 
+The entirety of the physical structure as well as most of the Arduino code was done by me.
+
 Two Arduino UNOs, a stepper motor, and other electronic components are used for the control mechanism. The structure is built with interlinkable beams, pins, and gears. 
 
 The code is written in C++ to create "the most efficient path" algorithm that switches parking spots to save energy up to 20% and reduce waiting times for customers.
