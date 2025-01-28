@@ -1,6 +1,6 @@
 ---
 title: "TinkerXR"
-excerpt: "In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices<br/><img src='/images/RealityCraft Teaser Figure.png' style='width:740px; border-radius: 20px;  margin-bottom: 24px;'>"
+excerpt: "In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices<br/><img src='/images/TinkerXR Teaser Figure.png' style='width:740px; border-radius: 20px;  margin-bottom: 24px;'>"
 author_profile: false
 collection: projects
 ---
