@@ -37,8 +37,8 @@ produced materials are distributed to organizations such as NASA and Airbus.
 Skills
 ======
 * **Programming Languages and Libraries**
-  * Python, C, C++, C#, Java, SPARQL, PyTorch, TensorFlow
+  * Python, C, C++, C#, Java, SPARQL, PyTorch, TensorFlow, Meta XR SDK
 * **Courses**
   * Machine Learning, Deep Learning, Data Structures & Algorithms, Operating Systems, NLP, Semantic Web, Human-Computer Interaction, Smart Environments, Wearable Computing
 * **Software**
-  * Android Studio, MATLAB, Jupyter Notebook, Unity, Arduino, Protege, VR Tools
+  * Android Studio, MATLAB, Jupyter Notebook, Unity, Arduino, Protege
