@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MS in Computer Engineering, Bogazici University, September 2022 - May 2025
+* MS in Computer Engineering, Bogazici University, September 2022 - November 2025
 * BS in Mechanical Engineering, Bogazici University, September 2017 - June 2022
 
 Work Experience
