@@ -13,7 +13,7 @@ My research interests include HCI, computer-aided design and manufacturing, mixe
 
 I received my BS degree from [Mechanical Engineering Department](http://www.me.boun.edu.tr/) at [Bogazici University](https://bogazici.edu.tr/en_US). My graduation project was completed under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=users/hasan-bedir).
 
-Featured Projects
+Featured Work
 =====
 
 {% include base_path %}
