@@ -12,7 +12,7 @@ In collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vMncU4CuW0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMncU4CuW0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
