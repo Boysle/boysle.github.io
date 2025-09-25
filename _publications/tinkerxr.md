@@ -44,16 +44,4 @@ In collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan
 
 ### Abstract
 
-Despite the growing accessibility of augmented reality (AR) for visualization, existing computer-aided design (CAD) systems remain confined to traditional screens or require complex setups or predefined parameters, limiting immersion and accessibility for novices.
-
-We present TinkerXR, an open-sourced interface enabling in-situ design and fabrication through Constructive Solid Geometry (CSG) modeling. 
-
-TinkerXR operates solely with a headset and 3D printer, allowing users to design directly in and for their physical environments. 
-
-By leveraging spatial awareness, depth occlusion, recognition of physical constraints, reference objects, and intuitive hand movement controls, TinkerXR enhances realism, precision, and ease of use. 
-
-Its AR-based workflow integrates design and 3D printing with a drag-and-drop interface for a 3D printer’s virtual twin. 
-
-A user study comparing TinkerXR with TinkerCAD demonstrates higher accessibility, engagement, and ease of use for novices. 
-
-By bridging the gap between digital creation and physical output, TinkerXR transforms everyday spaces into accessible and expressive creative studios.
+Despite the growing accessibility of augmented reality (AR) for visualization, existing computer-aided design (CAD) systems remain confined to traditional screens or require complex setups or predefined parameters, limiting immersion and accessibility for novices. We present TinkerXR, an open source interface enabling in-situ design and fabrication through Constructive Solid Geometry (CSG) modeling. TinkerXR operates solely with a headset and 3D printer, allowing users to design directly in and for their physical environments. By leveraging spatial awareness, depth occlusion, recognition of physical constraints, reference objects, and hand movement controls, TinkerXR enhances realism, precision, and ease of use. Its AR-based workflow integrates design and 3D printing with a drag-and-drop interface for a 3D printer’s virtual twin. A user study comparing TinkerXR with Tinkercad demonstrates higher accessibility, engagement, and ease of use for novices. By bridging the gap between digital creation and physical output, TinkerXR aims to transform everyday spaces into accessible and expressive creative studios.
