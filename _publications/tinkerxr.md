@@ -3,7 +3,6 @@ title: "TinkerXR: In-Situ, Reality-Aware CAD and 3D Printing Interface for Novic
 excerpt: "Oğuz Arslan, Artun Akdoğan, Mustafa Doğa Doğan<br/><img src='/images/TinkerXR Teaser Figure.png' style='width:740px; border-radius: 20px; margin-top:10px; margin-bottom: 24px;'>"
 author_profile: false
 collection: publications
-category: conferences
 venue: ACM Symposium on Computational Fabrication (SCF)
 date: 2025-11-2
 ---
@@ -22,7 +21,22 @@ In collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan
 
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
 
+ <a href="https://tinkerxr.github.io/" 
+     style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold; margin-right: 8px;"
+     onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
+     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">🌐 project page</a>
+
 <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">📄paper</a>
+
+  <a href="https://github.com/TinkerXR/TinkerXR.github.io" 
+     style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold; margin-right: 8px;"
+     onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
+     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">💻 code</a>
+
+  <a href="https://www.youtube.com/watch?v=vMncU4CuW0U" 
+     style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold;"
+     onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
+     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">▶️ video</a>
 
 </div>
 
