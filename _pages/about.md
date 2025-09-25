@@ -18,7 +18,7 @@ Featured Work
 
 {% include base_path %}
 
-{% assign posts = site.portfolio | slice: 0, 3 %}
+{% assign posts = site.publications | slice: 0, 1 %}
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
