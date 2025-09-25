@@ -23,4 +23,4 @@ Featured Work
   {% include archive-single.html %}
 {% endfor %}
 
-<p style="font-size: 14px;">I am working on updating my website!</p>
+<p style="font-size: 14px;">Oğuz Arslan 2025</p>
