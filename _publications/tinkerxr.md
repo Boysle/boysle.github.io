@@ -4,7 +4,7 @@ excerpt: "In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices<br/><
 author_profile: false
 collection: publications
 category: conferences
-venue: ACM SCF 2025
+venue: ACM SCF
 date: 2025-11-20
 ---
 Conducted in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/) and under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/).
