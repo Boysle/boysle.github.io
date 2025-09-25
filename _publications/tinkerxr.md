@@ -3,6 +3,7 @@ title: "TinkerXR"
 excerpt: "In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices<br/><img src='/images/TinkerXR Teaser Figure.png' style='width:740px; border-radius: 20px;  margin-bottom: 24px;'>"
 author_profile: false
 collection: publications
+venue: ACM SCF 2025
 ---
 Conducted in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/) and under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/).
 
