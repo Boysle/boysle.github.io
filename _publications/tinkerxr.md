@@ -7,7 +7,7 @@ category: conferences
 venue: ACM Symposium on Computational Fabrication (SCF)
 date: 2025-11-2
 ---
-Conducted in collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/) and under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/).
+In collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan/) and under the supervision of [Mustafa Doğa Doğan, PhD](https://www.dogadogan.com/).
 
 
 
