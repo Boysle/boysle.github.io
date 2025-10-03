@@ -48,3 +48,5 @@ Skills
   * Machine Learning, Deep Learning, Data Structures & Algorithms, Operating Systems, NLP, Semantic Web, Human-Computer Interaction, Smart Environments, Wearable Computing, Engineering Interactive Systems
 * **Software**
   * Unity, Android Studio, MATLAB, Jupyter Notebook, Arduino, Protege, Blender, SolidWorks
+* **Machine Learning Frameworks & Models**
+  * Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, MLP, LSTM, GNN, k-NN, SVM
