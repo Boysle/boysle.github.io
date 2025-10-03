@@ -33,12 +33,18 @@ produced materials are distributed to organizations such as NASA and Airbus.
 
   Istanbul, Turkey
   * Created a tool that generates 3D polygonal modeled mesh groups using Python for Abaqus, with the aim of automatizing manual meshing, increasing efficiency by 5.
-  
+
+Publications
+======
+* **Oğuz Arslan**, Artun Akdoğan, Mustafa Doğa Doğan.  
+  [*TinkerXR: An In-Situ CAD and 3D Printing AR Interface*](https://tinkerxr.github.io/)  
+  *Symposium on Computational Fabrication (SCF) 2025*. To appear.
+ 
 Skills
 ======
 * **Programming Languages and Libraries**
   * Python, C, C++, C#, Java, SPARQL, PyTorch, TensorFlow, Meta XR
 * **Courses**
-  * Machine Learning, Deep Learning, Data Structures & Algorithms, Operating Systems, NLP, Semantic Web, Human-Computer Interaction, Smart Environments, Wearable Computing
+  * Machine Learning, Deep Learning, Data Structures & Algorithms, Operating Systems, NLP, Semantic Web, Human-Computer Interaction, Smart Environments, Wearable Computing, Engineering Interactive Systems
 * **Software**
-  * Android Studio, MATLAB, Jupyter Notebook, Unity, Arduino, Protege
+  * Unity, Android Studio, MATLAB, Jupyter Notebook, Arduino, Protege, Blender, SolidWorks
