@@ -37,7 +37,7 @@ produced materials are distributed to organizations such as NASA and Airbus.
 Publications
 ======
 * **Oğuz Arslan**, Artun Akdoğan, Mustafa Doğa Doğan.  
-  [*TinkerXR: An In-Situ CAD and 3D Printing AR Interface*](https://tinkerxr.github.io/)  
+  [*TinkerXR: In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices*](https://tinkerxr.github.io/)  
   *Symposium on Computational Fabrication (SCF) 2025*. To appear.
  
 Skills
