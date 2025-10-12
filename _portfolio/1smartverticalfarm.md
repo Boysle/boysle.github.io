@@ -4,7 +4,7 @@ excerpt: "A Fully Automated Indoor No-Soil Vertical Farming Setup<br/><img src='
 author_profile: false
 collection: projects
 ---
-Conducted under the supervision of [Prof. Hasan Bedir](http://me.boun.edu.tr/?q=users/hasan-bedir) and in collaboration with [Kutay Yavuzkol](https://www.linkedin.com/in/kutay-yavuzkol-415020150/) and [Alp Uysal](https://www.linkedin.com/in/alpuysaal/).
+Conducted under the supervision of [Prof. Hasan Bedir](https://me.bogazici.edu.tr/tr/hasan-bedir) and in collaboration with [Kutay Yavuzkol](https://www.linkedin.com/in/kutay-yavuzkol-415020150/) and [Alp Uysal](https://www.linkedin.com/in/alpuysaal/).
 
 <!-- MAIN IMAGE -->
 <img src="/images/Vertical Farming Teaser.png" alt="Vertical Farming Teaser" style="border-radius: 20px; width: 760px;">
