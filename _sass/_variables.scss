@@ -28,11 +28,6 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap');
-
-$global-font-family: "Source Sans 3", sans-serif;
-$header-font-family: "Source Sans 3", sans-serif;
-$caption-font-family: "Source Sans 3", sans-serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -166,4 +161,10 @@ $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap');
+
 $sans-serif: "Source Sans 3", sans-serif;
+$sans-serif-narrow: "Source Sans 3", sans-serif;
+$global-font-family: "Source Sans 3", sans-serif;
+$header-font-family: "Source Sans 3", sans-serif;
+$caption-font-family: "Source Sans 3", sans-serif;
