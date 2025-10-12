@@ -1,6 +1,6 @@
 ---
 title: "TinkerXR: In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices"
-excerpt: "Oğuz Arslan, Artun Akdoğan, Mustafa Doğa Doğan<br/><img src='/images/TinkerXR Teaser Figure.png' style='width:740px; border-radius: 20px; margin-top:10px; margin-bottom: 24px;'>"
+excerpt: "<b>Oğuz Arslan</b>, Artun Akdoğan, Mustafa Doğa Doğan<br/><img src='/images/TinkerXR Teaser Figure.png' style='width:740px; border-radius: 20px; margin-top:10px; margin-bottom: 24px;'>"
 author_profile: false
 collection: publications
 venue: ACM Symposium on Computational Fabrication (SCF)
