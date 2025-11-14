@@ -26,6 +26,11 @@ In collaboration with [Artun Akdoğan](https://www.linkedin.com/in/artun-akdogan
      onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
      onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">project page</a>
 
+ <a href="https://dl.acm.org/doi/10.1145/3745778.3766651"
+     style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold; margin-right: 8px;"
+     onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
+     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">DOI</a>
+
 <a href="https://arxiv.org/pdf/2410.06113" style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold; margin-right: 8px;" onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';" onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">paper</a>
 
   <a href="https://github.com/Boysle/TinkerXR" 
