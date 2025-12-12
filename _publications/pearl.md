@@ -14,15 +14,15 @@ Under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o__cUSoD6Ec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
 
+<div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
 
-<!-- MAIN IMAGE -->
-<img src="/images/peaRL_Teaser.png" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
+  <img src="/images/peaRL_Teaser.png" alt="peaRL Teaser Graphic" style="border-radius: 20px; width: 760px;">
 
-<!-- MAIN GIF -->
-<img src="/images/GAT-LSTM_Model.png" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
+  <img src="/images/GAT-LSTM_Model.png" alt="GAT-LSTM Model Diagram" style="border-radius: 20px; width: 760px;">
 
-<!-- MAIN GIF -->
-<img src="/images/pearl-ui-demo-gif.gif" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
+  <img src="/images/pearl-ui-demo-gif.gif" alt="peaRL UI Demo GIF" style="border-radius: 20px; width: 760px;">
+
+</div>
 
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
 
