@@ -1,9 +1,9 @@
 ---
 title: "peaRL: Spatio-Temporal Graph Learning for Predictive and Exploratory Analytics in Esports using Rocket League"
-excerpt: "<b>Oğuz Arslan</b>, Suzan Üsküdarlı<br/><img src='/images/peaRL_Teaser.png' style='width:740px; border-radius: 20px; margin-top:10px; margin-bottom: 24px;'>"
+excerpt: "<b>Oğuz Arslan</b>, Suzan Üsküdarlı<br/><i>Coming soon!</i><br/><img src='/images/peaRL_Teaser.png' style='width:740px; border-radius: 20px; margin-top:10px; margin-bottom: 24px;'>"
 author_profile: false
 collection: publications
-venue: Coming Soon
+venue: ""
 date: 2026-1-31
 ---
 Under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/tr/people/suzan.uskudarli).
