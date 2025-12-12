@@ -19,6 +19,9 @@ Under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr
 <img src="/images/peaRL_Teaser.png" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
 
 <!-- MAIN GIF -->
+<img src="/images/GAT-LSTM_Model.png" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
+
+<!-- MAIN GIF -->
 <img src="/images/pearl-ui-demo-gif.gif" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
 
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
