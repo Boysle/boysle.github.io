@@ -18,6 +18,8 @@ Under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr
 <!-- MAIN IMAGE -->
 <img src="/images/peaRL_Teaser.png" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
 
+<!-- MAIN GIF -->
+<img src="/images/peaRL_Teaser.png" alt="peaRL Teaser" style="border-radius: 20px; width: 760px;">
 
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
 
