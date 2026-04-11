@@ -65,12 +65,25 @@
     text-indent: 0;
   }
 
+  .card-frame {
+    display: block;
+    background: #f2f2f2;
+    border: 1px solid #e0e0e0;
+    border-radius: 26px;
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(#000, 0.08);
+    margin-top: 10px;
+  }
+
   img {
     cursor: pointer;
+    display: block;
+    width: 100%;
+    margin: 0 !important;
     transition: box-shadow 0.2s ease;
 
     &:hover {
-      box-shadow: 0 0 10px rgba(#000, 0.25);
+      box-shadow: 0 0 14px rgba(#000, 0.2);
     }
   }
 }
