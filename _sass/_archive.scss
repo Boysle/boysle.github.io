@@ -64,6 +64,15 @@
   & + p {
     text-indent: 0;
   }
+
+  img {
+    cursor: pointer;
+    transition: box-shadow 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
+    }
+  }
 }
 
 .archive__item-teaser {
@@ -90,6 +99,8 @@
    ========================================================================== */
 
 .list__item {
+  max-width: 740px;
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }

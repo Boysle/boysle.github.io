@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the Computer Engineering Department at [Bogazici University](https://bogazici.edu.tr/en) under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/tr/people/suzan.uskudarli). I am currently involved in the [Complex Systems Research Lab (SoSLab)](http://soslab.cmpe.boun.edu.tr/) and the [Cognitive Learning and Robotics (COLORS) Lab](https://colors.cmpe.boun.edu.tr/).
+I am a Visiting Researcher at ETH Zürich, working with [Prof. April Wang](https://aprilwang.me/) in the **Programming, Education, and Computer-Human Interaction (PEACH) Lab**. Previously, I pursued my MS in Computer Engineering at Boğaziçi University under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/tr/people/suzan.uskudarli), where I was involved with the **Complex Systems Research Lab (SoSLab)** and the **Cognitive Learning and Robotics (COLORS) Lab**. I also hold a BS in Mechanical Engineering from Boğaziçi University.
 
-My research interests include HCI, mixed reality, explainable AI, GNNs, computer-aided design and manufacturing, sports analytics, and the semantic web.
-
-I received my BS degree from Mechanical Engineering Department at [Bogazici University](https://bogazici.edu.tr/en). My graduation project was completed under the supervision of [Prof. Hasan Bedir](https://me.bogazici.edu.tr/tr/hasan-bedir).
+My work in **Human-Computer Interaction** focuses on emerging computational tools and spatial interfaces, with a strong emphasis on **Mixed Reality**. I am driven by the vision of democratizing highly complex skills. My research involves both designing novel interactive systems and investigating how users engage with them, exploring how learning can become a seamless and intuitive experience. I am particularly interested in how these interactive environments can intersect with **explainable AI** and **3D design and manufacturing**.
 
 Featured Work
 =====
@@ -23,4 +21,4 @@ Featured Work
   {% include archive-single.html %}
 {% endfor %}
 
-<p style="font-size: 14px;">Oğuz Arslan 2025</p>
+<p style="font-size: 14px;">Oğuz Arslan 2026</p>

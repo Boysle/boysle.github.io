@@ -51,9 +51,13 @@
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="margin-top: 5px; margin-bottom: 20px;">{{ post.excerpt | markdownify }}</p>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none; color: inherit;">
+        <div class="archive__item-excerpt" itemprop="description" style="margin-top: 5px; margin-bottom: 20px;">{{ post.excerpt | markdownify }}</div>
+      </a>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="margin-top: 5px; margin-bottom: 20px;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none; color: inherit;">
+        <div class="archive__item-excerpt" itemprop="description" style="margin-top: 5px; margin-bottom: 20px;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong> Read more</strong></div>
+      </a>
     {% endif %}
 
     {% if post.citation and post.paperurl and post.slidesurl %}
