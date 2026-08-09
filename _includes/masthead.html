@@ -19,5 +19,15 @@
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
+
+    {%- comment -%}
+      Kept outside #site-nav on purpose: the greedy navigation script binds to
+      `$('#site-nav button')`, so a button in there would hijack the overflow menu.
+    {%- endcomment -%}
+    <button type="button" class="theme-toggle" id="theme-toggle"
+            aria-label="Switch between light and dark mode">
+      <i class="fas fa-moon theme-toggle__moon" aria-hidden="true"></i>
+      <i class="fas fa-sun theme-toggle__sun" aria-hidden="true"></i>
+    </button>
   </div>
 </div>

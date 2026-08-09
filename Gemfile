@@ -16,7 +16,10 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", "~> 0.2.0" if Gem.win_platform?
+
+# Windows has no zoneinfo database, so ship the timezone data as a gem.
+gem "tzinfo-data", platforms: [:windows]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

@@ -1,0 +1,259 @@
+/* ==========================================================================
+   LIGHT / DARK THEME
+   ==========================================================================
+
+   The theme's colour variables in _variables.scss point at the custom
+   properties defined here, so most of the site re-colours itself. The
+   overrides further down cover the handful of places where the original
+   stylesheets hard-coded #fff or a grey instead of using a variable.
+
+   Light values are the theme's originals, so light mode looks unchanged. */
+
+:root {
+  --bg                  : #fff;
+  --text                : #494e52;
+  --text-muted          : #767a7d;
+  --border              : #f2f3f3;
+  --border-strong       : #bdc1c4;
+  --surface             : #f2f3f3;
+  --code-bg             : #fafafa;
+  --code-bg-dark        : #bdc1c4;
+
+  --link                : #2d52a3;
+  --link-hover          : #223e7a;
+  --link-visited        : #627dba;
+
+  --masthead-bg         : #fff;
+  --masthead-link       : #7a8288;
+  --masthead-link-hover : #5c6266;
+
+  /* Floating panels: dropdowns, the TOC, the author popup. */
+  --panel-bg            : #fff;
+
+  /* The holo cards in the featured-work excerpts. */
+  --card-bg             : #f2f2f2;
+  --card-border         : #e0e0e0;
+
+  /* Sidebar glyphs. Brand icons keep their real colours in light mode. */
+  --icon-neutral        : #000;
+  --icon-brand-dark     : #171516;
+
+  /* Matches the theme's original mix(#fff, $gray, 25%) so light mode is unchanged. */
+  --footer-text         : #9ba1a6;
+
+  --shadow-color        : rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="dark"] {
+  --bg                  : #1b1f24;
+  --text                : #d7dadd;
+  --text-muted          : #9aa1a8;
+  --border              : #2f353b;
+  --border-strong       : #3d444b;
+  --surface             : #22272d;
+  --code-bg             : #22272d;
+  --code-bg-dark        : #3d444b;
+
+  --link                : #7ea9ff;
+  --link-hover          : #a5c3ff;
+  --link-visited        : #b39ddb;
+
+  /* Matches --bg so the masthead reads as one flat surface separated only by
+     its bottom hairline, the way it does in light mode. */
+  --masthead-bg         : #1b1f24;
+  --masthead-link       : #c2c8ce;
+  --masthead-link-hover : #ffffff;
+
+  --panel-bg            : #262c33;
+
+  --card-bg             : #22272d;
+  --card-border         : #343a41;
+
+  --icon-neutral        : #d7dadd;
+  --icon-brand-dark     : #d7dadd;
+
+  --footer-text         : #9aa1a8;
+
+  --shadow-color        : rgba(0, 0, 0, 0.6);
+}
+
+
+/* Surfaces the original stylesheets hard-coded
+   ========================================================================== */
+
+.masthead {
+  background: var(--masthead-bg);
+}
+
+/* The nav sits on the masthead, so it must not paint its own background —
+   otherwise it shows as a block in a slightly different shade. */
+.greedy-nav {
+  background: transparent;
+}
+
+/* Dropdown panels and the table of contents */
+.greedy-nav .hidden-links,
+.toc {
+  background: var(--panel-bg);
+  background-color: var(--panel-bg);
+  box-shadow: 0 0 10px var(--shadow-color);
+}
+
+/* The author links are a popup on narrow screens but plain text on desktop,
+   where the theme strips the panel styling. Keep that reset intact. */
+.author__urls {
+  background: var(--panel-bg);
+  box-shadow: 0 0 10px var(--shadow-color);
+
+  @include breakpoint($large) {
+    background: transparent;
+    box-shadow: none;
+  }
+}
+
+.toc__menu a:hover {
+  color: var(--text);
+  background: var(--border);
+}
+
+.page__footer {
+  background-color: var(--surface);
+  border-top: 1px solid var(--border-strong);
+  color: var(--footer-text);
+}
+
+.page__footer a,
+.page__footer footer {
+  color: var(--footer-text);
+}
+
+/* Caret pointing at the author popup — it has to track the popup's fill. */
+.author__urls:after {
+  border-color: var(--panel-bg) transparent;
+}
+
+/* Sidebar glyphs. `.social-icons .fa` is hard-coded to #000 upstream, and the
+   GitHub/LinkedIn brand colours are near-black, so all three vanish on dark. */
+.social-icons {
+  .fa {
+    color: var(--icon-neutral);
+  }
+
+  .fa-github,
+  .fa-github-alt,
+  .fa-github-square,
+  .fa-linkedin,
+  .fa-linkedin-square {
+    color: var(--icon-brand-dark);
+  }
+}
+
+/* Holo cards in the featured-work excerpts. Needs two classes to outrank
+   the upstream `.archive__item-excerpt .card-frame` rule. */
+.archive__item-excerpt .card-frame {
+  background: var(--card-bg);
+  border-color: var(--card-border);
+}
+
+/* Skip link, only visible on keyboard focus */
+.screen-reader-text:focus,
+.screen-reader-shortcut:focus {
+  color: var(--text);
+  background: var(--bg);
+}
+
+.modal {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.page__comments-form {
+  background: var(--surface);
+}
+
+/* Tables */
+th {
+  background-color: var(--surface);
+  border-bottom: 1px solid var(--border-strong);
+}
+
+table,
+td,
+th {
+  border-color: var(--border-strong);
+}
+
+/* Code */
+div.highlighter-rouge,
+figure.highlight,
+pre.highlight,
+.highlight pre {
+  background-color: var(--code-bg);
+}
+
+/* Hairlines that used the stronger grey */
+hr,
+.archive__item-teaser,
+.page__content .notice,
+figcaption a {
+  border-color: var(--border-strong);
+}
+
+
+/* Theme toggle button
+   ========================================================================== */
+
+/* Reserve room so the greedy nav never measures its way underneath the button. */
+.masthead__inner-wrap {
+  position: relative;
+  padding-right: 4em;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  transform: translateY(-50%);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25em;
+  height: 2.25em;
+  padding: 0;
+
+  color: var(--masthead-link);
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  border-radius: 0.5em;
+  cursor: pointer;
+
+  font-size: 1em;
+  line-height: 1;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+
+  &:hover {
+    color: var(--masthead-link-hover);
+    background: var(--surface);
+    border-color: var(--masthead-link);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--link);
+    outline-offset: 2px;
+  }
+
+  i {
+    font-size: 1.05em;
+  }
+
+  /* Show the icon for the theme you would switch *to*: a moon while light. */
+  .theme-toggle__moon { display: block; }
+  .theme-toggle__sun  { display: none; }
+}
+
+[data-theme="dark"] .theme-toggle {
+  .theme-toggle__moon { display: none; }
+  .theme-toggle__sun  { display: block; }
+}

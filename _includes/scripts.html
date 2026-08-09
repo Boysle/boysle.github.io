@@ -20,3 +20,47 @@
     scale: 1.07
   });
 </script>
+
+<script>
+  // Light/dark toggle. The initial theme is set by the inline script in
+  // head/custom.html; this only handles clicks and persistence.
+  (function() {
+    var toggle = document.getElementById("theme-toggle");
+    if (!toggle) return;
+
+    var meta = document.querySelector('meta[name="theme-color"]');
+
+    function apply(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      if (meta) meta.setAttribute("content", theme === "dark" ? "#1b1f24" : "#ffffff");
+    }
+
+    apply(document.documentElement.getAttribute("data-theme") || "light");
+
+    toggle.addEventListener("click", function() {
+      var next =
+        document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      apply(next);
+      try { localStorage.setItem("theme", next); } catch (e) {}
+    });
+  })();
+</script>
+
+<script>
+  // Open links that leave this site in a new tab.
+  (function() {
+    var ownHosts = [window.location.hostname];
+    {% if site.url %}
+      try { ownHosts.push(new URL("{{ site.url }}").hostname); } catch (e) {}
+    {% endif %}
+
+    document.querySelectorAll("a[href]").forEach(function(link) {
+      // Leave mailto:, tel: and anything non-web alone.
+      if (link.protocol !== "http:" && link.protocol !== "https:") return;
+      if (ownHosts.indexOf(link.hostname) !== -1) return;
+
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+  })();
+</script>
