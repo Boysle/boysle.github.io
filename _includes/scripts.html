@@ -22,8 +22,11 @@
 </script>
 
 <script>
-  // Light/dark toggle. The initial theme is set by the inline script in
-  // head/custom.html; this only handles clicks and persistence.
+  /* Light/dark toggle. The initial theme is set by the inline script in
+     head/custom.html; this only handles clicks and persistence.
+
+     Block comments only in here: `compress_html` strips newlines in production,
+     which would fold a `//` comment over the rest of the script. */
   (function() {
     var toggle = document.getElementById("theme-toggle");
     if (!toggle) return;
@@ -47,7 +50,7 @@
 </script>
 
 <script>
-  // Open links that leave this site in a new tab.
+  /* Open links that leave this site in a new tab. */
   (function() {
     var ownHosts = [window.location.hostname];
     {% if site.url %}
@@ -55,7 +58,7 @@
     {% endif %}
 
     document.querySelectorAll("a[href]").forEach(function(link) {
-      // Leave mailto:, tel: and anything non-web alone.
+      /* Leave mailto:, tel: and anything non-web alone. */
       if (link.protocol !== "http:" && link.protocol !== "https:") return;
       if (ownHosts.indexOf(link.hostname) !== -1) return;
 
