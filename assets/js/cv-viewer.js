@@ -6,6 +6,21 @@ const PDFJS = '/assets/js/pdfjs';
 const viewer = document.getElementById('cv-viewer');
 const src = viewer.dataset.src;
 
+// The theme's content column sits to the right of an (empty) sidebar area,
+// so shift the viewer to the middle of the page. Re-run whenever the page resizes.
+const main = document.getElementById('main');
+function centerOnPage() {
+  viewer.style.transform = '';
+  const m = main.getBoundingClientRect();
+  const v = viewer.getBoundingClientRect();
+  const shift = (m.left + m.width / 2) - (v.left + v.width / 2);
+  if (Math.abs(shift) > 1) viewer.style.transform = `translateX(${shift}px)`;
+}
+if (main) {
+  centerOnPage();
+  new ResizeObserver(centerOnPage).observe(main);
+}
+
 async function render() {
   const pdfjsLib = await import(`${PDFJS}/pdf.min.js`);
   pdfjsLib.GlobalWorkerOptions.workerSrc = `${PDFJS}/pdf.worker.min.js`;

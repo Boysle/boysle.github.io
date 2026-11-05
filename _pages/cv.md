@@ -18,13 +18,6 @@ redirect_from:
   .cv-page a:hover { background: rgba(0, 102, 255, 0.10); }
 </style>
 
-<div style="text-align: center; margin: 0 0 24px;">
- <a href="/files/Oguz_Arslan_CV.pdf" download
-     style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold;"
-     onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
-     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">download PDF</a>
-</div>
-
 <div id="cv-viewer" data-src="/files/Oguz_Arslan_CV.pdf">
   <p style="text-align: center;">Loading CV… <noscript>JavaScript is off: <a href="/files/Oguz_Arslan_CV.pdf">open the PDF</a>.</noscript></p>
 </div>
