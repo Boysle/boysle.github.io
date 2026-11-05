@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Researcher at ETH Zürich, working with **[Prof. April Wang](https://aprilwang.me/)** in the **Programming, Education, and Computer-Human Interaction (PEACH) Lab**. Previously, I pursued my MS in Computer Engineering at Boğaziçi University under the supervision of **[Prof. Suzan Üsküdarlı](https://uskudarli.gitlab.io/uskudarli-academic/)**, where I was involved with the **Complex Systems Research Lab (SoSLab)** and the **Cognitive Learning and Robotics (COLORS) Lab**. I also hold a BS in Mechanical Engineering from Boğaziçi University.
+I am a Visiting Researcher at ETH Zürich, working with **[Prof. April Wang](https://aprilwang.me/)** in the **Programming, Education, and Computer-Human Interaction (PEACH) Lab** and **[Prof. Daniela Mitterberger](https://danielamitterberger.com/)** in the **Architecture and Human Augmentation (AHA) Lab**. Previously, I pursued my MS in Computer Engineering at Boğaziçi University under the supervision of **[Prof. Suzan Üsküdarlı](https://uskudarli.gitlab.io/uskudarli-academic/)**, where I was involved with the **Complex Systems Research Lab (SoSLab)** and the **Cognitive Learning and Robotics (COLORS) Lab**. I also hold a BS in Mechanical Engineering from Boğaziçi University.
 
 My work focuses on **Human-Computer Interaction**, with a strong emphasis on **Mixed Reality**. I am driven by the vision of democratizing highly complex skills for novices. My research involves both designing novel interactive systems and investigating how users engage with them, exploring how learning can become a seamless and intuitive experience. I am particularly interested in how these interactive environments can intersect with **embodied learning** and **3D design and fabrication**.
 
