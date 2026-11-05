@@ -28,23 +28,11 @@ MSc thesis, Boğaziçi University, 2026: *Pearl: Spatio-temporal graph learning 
 
 <div style="text-align: center; margin: 20px 0;"> <!-- Added margin for spacing -->
 
-<!-- THESIS BUTTON: YÖK has no stable direct links, so this submits a title search
-     (Pearl AND Rocket AND esports) that returns only this thesis; the PDF is open access there.
-     Keep each keyword a single word: YÖK rejects form-encoded spaces ("+"). -->
-<form action="https://tez.yok.gov.tr/UlusalTezMerkezi/SearchTez" method="post" target="_blank" style="display: inline;">
-  <input type="hidden" name="keyword" value="Pearl">
-  <input type="hidden" name="keyword1" value="Rocket">
-  <input type="hidden" name="keyword2" value="esports">
-  <input type="hidden" name="ops_field" value="and">
-  <input type="hidden" name="ops_field1" value="and">
-  <input type="hidden" name="nevi" value="1">
-  <input type="hidden" name="tip" value="2">
-  <input type="hidden" name="islem" value="4">
-  <button type="submit"
-     style="font-family: inherit; cursor: pointer; text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold;"
+<!-- THESIS BUTTON: official copy from YÖK (No. 1031329), hosted here -->
+ <a href="/files/peaRL_MSc_Thesis.pdf"
+     style="text-decoration: none; background-color: transparent; color: #999999; padding: 4px 10px; border-radius: 25px; text-align: center; display: inline-flex; align-items: center; justify-content: center; border: 3px solid #999999; transition: 0.1s; font-size: 14px; font-weight: bold;"
      onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
-     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">thesis</button>
-</form>
+     onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">thesis</a>
 
 <!-- PROJECT WEBSITE LINK BUTTON
  <a href="https://tinkerxr.github.io/" 
