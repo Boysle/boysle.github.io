@@ -8,7 +8,7 @@ date: 2026-1-31
 ---
 Under the supervision of [Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/tr/people/suzan.uskudarli).
 
-MSc thesis, Boğaziçi University, 2026: *Pearl: Spatio-temporal graph learning for predictive & exploratory analytics in esports: A Rocket League case study* (YÖK Thesis No. 1031329).
+MSc thesis, Boğaziçi University, 2026: *Pearl: Spatio-temporal graph learning for predictive & exploratory analytics in esports: A Rocket League case study*.
 
 
 
@@ -19,10 +19,6 @@ MSc thesis, Boğaziçi University, 2026: *Pearl: Spatio-temporal graph learning 
 <div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
 
   <img src="/images/peaRL_Teaser.png" alt="peaRL Teaser Graphic" style="border-radius: 20px; width: 760px;">
-
-  <img src="/images/GAT-LSTM_Model.png" alt="GAT-LSTM Model Diagram" style="border-radius: 20px; width: 760px;">
-
-  <img src="/images/pearl-ui-demo-gif.gif" alt="peaRL UI Demo GIF" style="border-radius: 20px; width: 760px;">
 
 </div>
 
@@ -65,6 +61,14 @@ MSc thesis, Boğaziçi University, 2026: *Pearl: Spatio-temporal graph learning 
      onmouseover="this.style.color='#333333'; this.style.borderColor='#333333';"
      onmouseout="this.style.color='#999999'; this.style.borderColor='#999999';">video</a>
 -->
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 40px; align-items: center; margin-top: 30px; margin-bottom: 20px;">
+
+  <img src="/images/GAT-LSTM_Model.png" alt="GAT-LSTM Model Diagram" style="border-radius: 20px; width: 760px;">
+
+  <img src="/images/pearl-ui-demo-gif.gif" alt="peaRL UI Demo GIF" style="border-radius: 20px; width: 760px;">
+
 </div>
 
 
