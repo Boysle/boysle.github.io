@@ -36,9 +36,13 @@ produced materials are distributed to organizations such as NASA and Airbus.
 
 Publications
 ======
+* Faraz Faruqi, Demircan Tas, Arthur Caetano, Niccolò Meniconi, **Oğuz Arslan**, Misha Sra, Ruofei Du, Stefanie Mueller, Mustafa Doğa Doğan.  
+  [*Demonstration of MiXR: Harvesting and Recomposing Geometry from Real-World Objects for In-Situ 3D Design*](https://dl.acm.org/doi/10.1145/3802974.3808035)  
+  *ACM Designing Interactive Systems Conference (DIS) 2026, Demo*.
+
 * **Oğuz Arslan**, Artun Akdoğan, Mustafa Doğa Doğan.  
   [*TinkerXR: In-Situ, Reality-Aware CAD and 3D Printing Interface for Novices*](https://tinkerxr.github.io/)  
-  *Symposium on Computational Fabrication (SCF) 2025*. To appear.
+  *Symposium on Computational Fabrication (SCF) 2025*.
  
 Skills
 ======
