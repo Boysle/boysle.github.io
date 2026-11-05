@@ -13,7 +13,9 @@ redirect_from:
 <style>
   /* No visible "CV" heading on this page; screen readers still get it, and the tab title stays "CV". */
   .archive > .page__title { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
-  #cv-viewer { max-width: 900px; margin: 0 auto; }
+  /* Size the CV so a whole page fits the screen height (letter page: width = height x 0.773),
+     but never so small the text is hard to read, nor wider than 820px. */
+  #cv-viewer { max-width: clamp(600px, calc((100vh - 130px) * 0.773), 820px); margin: 0 auto; }
   .cv-page { position: relative; margin: 0 auto 24px; background: #fff; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.18); }
   .cv-page canvas { display: block; width: 100%; height: 100%; }
   .cv-page a { position: absolute; }
